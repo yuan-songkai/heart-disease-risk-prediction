@@ -1,6 +1,4 @@
-# heart-disease-risk-prediction
-
-# Interpretable and uncertainty-aware heart disease risk prediction based on logistic regression
+# Interpretable and uncertainty-aware heart disease risk prediction
 
 ## Overview
 This project develops an interpretable and uncertainty-aware heart disease risk prediction model based on logistic regression.
