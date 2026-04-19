@@ -9,9 +9,9 @@ The focus is not on maximizing predictive accuracy, but on:
 - and uncertainty quantification for decision support.
 
 ## Dataset
-UCI Heart Disease dataset(Cleveland subset).
+UCI Heart Disease Data
 
-The dataset used in this project is the Heart Disease dataset from the UCI Machine Learning Repository (Cleveland subset), made available via Kaggle for convenience.
+The dataset used in this project is the Heart Disease Dataset from the UCI, made available via Kaggle for convenience. The Cleveland database is the only one used by ML researchers to date.
 
 ## methods
 - Logistic Regression (baseline model)
