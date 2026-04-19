@@ -13,7 +13,7 @@ UCI Heart Disease Data
 
 The dataset used in this project is the Heart Disease Dataset from the UCI, made available via Kaggle for convenience. The Cleveland database is the only one used by ML researchers to date.
 
-## methods
+## Methods
 - Logistic Regression (baseline model)
 - Feature standardization
 - Odds ratios and coefficient interpretation
