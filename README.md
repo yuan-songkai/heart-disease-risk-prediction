@@ -6,7 +6,7 @@ This project develops an interpretable and uncertainty-aware heart disease risk 
 The focus is not on maximizing predictive accuracy, but on:
 - probabilistic risk estimation,
 - interpretability,
-- and uncertainty quantification for decision support.
+- uncertainty quantification for decision support.
 
 ## Dataset
 UCI Heart Disease Data
