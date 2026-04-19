@@ -11,7 +11,7 @@ The focus is not on maximizing predictive accuracy, but on:
 ## Dataset
 UCI Heart Disease dataset(Cleveland subset).
 
-### The dataset used in this project is the Heart Disease dataset from the UCI Machine Learning Repository (Cleveland subset), made available via Kaggle for convenience.
+The dataset used in this project is the Heart Disease dataset from the UCI Machine Learning Repository (Cleveland subset), made available via Kaggle for convenience.
 
 ## methods
 - Logistic Regression (baseline model)
